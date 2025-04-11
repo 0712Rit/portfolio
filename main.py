@@ -36,7 +36,7 @@ def home():
 
     with col1:
         # Replace with your own image
-        st.image(r"C:\Users\dell\Desktop\portfolio\pic.jpg", width=300)
+        st.image("pic.jpg", width=300)
 
     with col2:
         st.title("RITAM MALLICK")
